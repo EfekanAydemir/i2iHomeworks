@@ -1,0 +1,8 @@
+ 45 is not Prime 
+ 1 is not Prime 
+ 2 is Prime 
+ 3 is Prime 
+ 4 is not Prime 
+ 5 is Prime 
+ 6 is not Prime 
+ 7 is Prime 
